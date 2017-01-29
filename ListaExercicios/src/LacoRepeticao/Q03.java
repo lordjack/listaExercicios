@@ -7,7 +7,7 @@ import java.util.Scanner;
  * que 3 caracteres; b. Idade: entre 0 e 150; c. Salário: maior que zero; d.
  * Sexo: 'f' ou 'm'; e. Estado Civil: 's', 'c', 'v', 'd';
  */
-public class Q3 {
+public class Q03 {
 
     /**
      * @param args the command line arguments

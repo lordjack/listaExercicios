@@ -7,7 +7,7 @@ import java.util.Scanner;
  * caso o valor seja inválido e continue pedindo até que o usuário informe um
  * valor válido.
  */
-public class Q1 {
+public class Q01 {
 
     public static void main(String[] args) {
 
